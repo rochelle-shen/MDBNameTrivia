@@ -23,6 +23,7 @@ class StatisticViewController: UIViewController {
     var imageName: String!
     var recentNames: [String]!
     
+
     @IBOutlet weak var streakNum: UILabel!
     @IBOutlet weak var image1: UIImageView!
     @IBOutlet weak var image2: UIImageView!
